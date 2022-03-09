@@ -5,10 +5,10 @@ It clears clutter by combining 2D box that colliding to each other and makes the
 Written with C++14
 Written some time ago
 
-# Live Site: How To usse
+# Live Site: How To use
 
   ```cpp
-  
+		#include "Box.h"
 		for each (auto box in BoxArray)
 		{
 			auto currentbox = box;
@@ -43,10 +43,7 @@ Written some time ago
 		
 
 
-# Site 
-![](https://i.gyazo.com/c6bcbe35dbc0f78f2faf4b8778e37721.png)
+# Example 
+![](https://i.gyazo.com/59745e398057ae92bec5bfff4b56f5f5.mp4)
 
-# Supports Mobile !
-![](https://i.gyazo.com/3ff28708a19f6c33b609a2e6ab593d93.png)
 
-# End
