@@ -1,15 +1,15 @@
 # Why This Exist
-This was a hoby project
+This was a hoby project, Purpose of this project was to clear clutter from screen when drawing to many 2D box.
+It clears clutter by combining 2D box that colliding to each other and makes them 1 2D box
 
-# Written with C++14
-I did the styling , wrote the css
+Written with C++14
+Written some time ago
 
-# Live Site: https://darkychat.netlify.app/
-Client: Runs on netlify
-
+# Live Site: How To usse
 
   ```cpp
-   for each (auto box in BoxArray)
+  
+		for each (auto box in BoxArray)
 		{
 			auto currentbox = box;
 			for each (auto otherbox in BoxArray)
@@ -20,8 +20,7 @@ Client: Runs on netlify
 				auto Child = BoxFunctions::FindChild(currentbox, BoxArray); // Finds All The Child Box's & add them to father box	
 			}
 		}
-		
-	
+
 
 		//************Delete Child Boxs
 		for (int i = 0; i < BoxArray.size(); i++) {
@@ -36,8 +35,9 @@ Client: Runs on netlify
 
 		for each (auto box in BoxArray)
 		{
-				renderer.drawbox(box); // Draw The Box
+			renderer.drawbox(box); // Draw The Box
 		}
+
    ```
 
 		
