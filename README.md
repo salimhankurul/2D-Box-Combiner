@@ -5,7 +5,7 @@ It clears clutter by combining 2D box that colliding to each other and makes the
 Written with C++14
 Written some time ago
 
-# Live Site: How To use
+# How To use
 
   ```cpp
 		#include "Box.h"
