@@ -44,6 +44,6 @@ Written some time ago
 
 
 # Example 
-![](https://i.gyazo.com/59745e398057ae92bec5bfff4b56f5f5.mp4)
+![](https://im2.ezgif.com/tmp/ezgif-2-5825d0bd16.gif)
 
 
